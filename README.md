@@ -4,7 +4,7 @@
 脚本检测到 ip 无法连接互联网时，会删除这个 ip
 因此 ifconfig 没有 ip
 导致临时的 Alpine 下没网
-将1.1.1.1测试改为google IP
+将1.1.1.1测试改为google IP来解决问题
 https://github.com/bin456789/reinstall/issues/353
 
 # reinstall
