@@ -1,5 +1,11 @@
 <!-- markdownlint-disable MD028 MD033 MD045 -->
 
+## 改动：
+脚本检测到 ip 无法连接互联网时，会删除这个 ip
+因此 ifconfig 没有 ip
+导致临时的 Alpine 下没网
+将1.1.1.1测试改为google IP
+
 # reinstall
 
 [![Codacy](https://img.shields.io/codacy/grade/dc679a17751448628fe6d8ac35e26eed?logo=Codacy&label=Codacy&style=flat-square)](https://app.codacy.com/gh/bin456789/reinstall/dashboard)
