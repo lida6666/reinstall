@@ -5,6 +5,7 @@
 因此 ifconfig 没有 ip
 导致临时的 Alpine 下没网
 将1.1.1.1测试改为google IP
+https://github.com/bin456789/reinstall/issues/353
 
 # reinstall
 
